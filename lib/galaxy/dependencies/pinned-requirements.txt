@@ -143,7 +143,7 @@ pygments==2.19.1
 pyjwt==2.10.1
 pykwalify==1.8.0
 pylibmagic==0.5.0
-pynacl==1.5.0
+pynacl==1.6.2
 pyparsing==3.2.3
 pypng==0.20220715.0
 pyreadline3==3.5.4 ; sys_platform == 'win32'
