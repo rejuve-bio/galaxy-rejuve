@@ -40,7 +40,7 @@ docutils==0.21.2
 dogpile-cache==1.3.4
 enum-tools==0.12.0 ; python_full_version >= '3.10'
 exceptiongroup==1.2.2 ; python_full_version < '3.11'
-filelock==3.18.0
+filelock==3.20.3
 fluent-logger==0.11.1
 fonttools==4.57.0
 frozenlist==1.6.0
